@@ -19,7 +19,14 @@
   <a href="https://www.linkedin.com/in/nitish-kumar-5357a7347" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+
 </p>
+<P>
+  <img src="C:/Users/Nitish Kumar/Downloads/marvin-meyer-SYTO3xs06fU-unsplash.jpg" 
+     alt="Technology Image" 
+     width="600" 
+     height="400" />
+</P>
 
 ---
 
@@ -88,5 +95,26 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitish8294&" alt="GitHub Streak" />
 </p>
+<h3>💻 Programming Languages</h3>
+<img src="https://path-to-image/turn0image22" alt="Languages" />
 
+<h3>🎨 Frontend Development</h3>
+<img src="https://path-to-image/turn0image153" alt="Frontend" />
 
+<h3>🛠️ Backend Development</h3>
+<img src="https://path-to-image/turn0image32" alt="Backend" />
+
+<h3>🗄️ Databases</h3>
+<img src="https://path-to-image/turn0image92" alt="Databases" />
+
+<h3>🧰 Tools & Platforms</h3>
+<img src="https://path-to-image/turn0image123" alt="Tools" />
+
+<h3>📊 GitHub Stats</h3>
+<img src="https://path-to-image/turn0image67" alt="Stats" />
+
+<h3>⚡ JavaScript</h3>
+<img src="https://path-to-image/turn0image214" alt="JavaScript" />
+
+<h3>⚛️ React</h3>
+<img src="https://path-to-image/turn0image182" alt="React" />
