@@ -1,6 +1,26 @@
 <h1 align="center">Hi 👋, I'm Nitish Kumar</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
+
+- 🔭 I’m currently working on [Leetcode Clone](https://online-coding-platfrom.vercel.app/signup)
+
+- 🌱 I’m currently learning **CodeWithharry,CoderArmy**
+
+- 👨‍💻 All of my projects are available at [https://portfolio-silk-five-79.vercel.app/](https://portfolio-silk-five-79.vercel.app/)
+
+- 💬 Ask me about **React,JavaScript,**
+
+- 📫 How to reach me **iamnitish405@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nitish-kumar-5357a7347" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nitish-kumar-5357a7347" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </p>
+
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e34dfd2c-31eb-4c27-97b6-e17ed342fe50" alt="coding" width="100%" />
 </p>
@@ -118,128 +138,5 @@
 
 <h3>⚛️ React</h3>
 <img src="https://path-to-image/turn0image182" alt="React" />
-<!doctype html>  
-<html lang="en">  
-  <head>  
-    <meta charset="utf-8" />  
-    <meta name="viewport" content="width=device-width, initial-scale=1" />  
-    <title>Pixel Grid Renderer</title>  
-    <style>  
-      :root {  
-        --cell: 10px; /* pixel size */  
-        --gap: 2px;   /* spacing between cells */  
-      }  
-      body {  
-        margin: 0;  
-        font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;  
-        background: #0b0f14;  
-        color: #e6edf3;  
-        display: grid;  
-        place-items: center;  
-        min-height: 100vh;  
-        padding: 16px;  
-      }  
-      .wrap {  
-        width: min(1100px, 100vw);  
-      }  
-      header {  
-        display: flex;  
-        gap: 12px;  
-        align-items: baseline;  
-        justify-content: space-between;  
-        margin-bottom: 12px;  
-      }  
-      header h1 {  
-        font-size: 16px;  
-        margin: 0;  
-        font-weight: 600;  
-        opacity: 0.95;  
-      }  
-      header .meta {  
-        font-size: 12px;  
-        opacity: 0.75;  
-      }  
-
-      #grid {  
-        display: grid;  
-        gap: var(--gap);  
-        justify-content: center;  
-        align-content: start;  
-        padding: 12px;  
-        background: #0f1620;  
-        border: 1px solid rgba(255, 255, 255, 0.08);  
-        border-radius: 12px;  
-        overflow: auto;  
-      }  
-
-      .cell {  
-        width: var(--cell);  
-        height: var(--cell);  
-        border-radius: 2px;  
-        background: #000;  
-      }  
-
-      .controls {  
-        display: flex;  
-        gap: 10px;  
-        flex-wrap: wrap;  
-        align-items: center;  
-        margin-bottom: 12px;  
-      }  
-      .controls label {  
-        font-size: 12px;  
-        opacity: 0.85;  
-      }  
-      input[type="range"] {  
-        width: 180px;  
-      }  
-      button {  
-        background: #2b6ef3;  
-        border: 0;  
-        color: white;  
-        padding: 8px 12px;  
-        border-radius: 10px;  
-        cursor: pointer;  
-      }  
-      button.secondary {  
-        background: rgba(255,255,255,0.08);  
-      }  
-      button:active { transform: translateY(1px); }  
-      .note {  
-        margin-top: 10px;  
-        font-size: 12px;  
-        opacity: 0.75;  
-        line-height: 1.35;  
-      }  
-      canvas { display: none; }  
-    </style>  
-  </head>  
-
-  <body>  
-    <div class="wrap">  
-      <header>  
-        <h1>Pixel Grid Renderer</h1>  
-        <div class="meta" id="meta">Loading…</div>  
-      </header>  
-
-      <div class="controls">  
-        <label>  
-          Resolution (cells):  
-          <input id="res" type="range" min="40" max="220" value="140" />  
-        </label>  
-        <button id="renderBtn">Render</button>  
-        <button id="downloadBtn" class="secondary">Download grid PNG</button>  
-      </div>  
-
-      <div id="grid"></div>  
-      <div class="note">  
-        Put your image at <b>./image.png</b> in the repo (or change the filename in code).  
-        This page scales the image down to a grid and renders each cell as a solid color.  
-      </div>  
-
-      <canvas id="srcCanvas"></canvas>  
-      <canvas id="outCanvas"></canvas>  
-    </div>  
-
-    <script>  
-      const gridEl = document.getElement
+ 
+     
