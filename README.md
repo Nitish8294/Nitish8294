@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **CodeWithharry,CoderArmy**
 
-  Some of  my projects are available at [https://portfolio-silk-five-79.vercel.app/](https://portfolio-silk-five-79.vercel.app/)
+- Some of  my projects are available at [https://portfolio-silk-five-79.vercel.app/](https://portfolio-silk-five-79.vercel.app/)
 
 - 💬 Ask me about **React,JavaScript,**
 
