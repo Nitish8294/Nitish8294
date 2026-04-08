@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Leetcode Clone](https://online-coding-platfrom.vercel.app/signup)
 
-- 🌱 I’m currently learning **CodeWithharry,CoderArmy**
+- 🌱 I’m currently learning plateform  **CodeWithharry,CoderArmy,W3school,ChatGPT,Gemini**
 
 - Some of  my projects are available at [https://portfolio-silk-five-79.vercel.app/](https://portfolio-silk-five-79.vercel.app/)
 
